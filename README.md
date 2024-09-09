@@ -8,16 +8,6 @@
  
 
 
-<br><br/>
-
-<div align="center">
-  <a href="https://github.com/lisgustavo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lisgustavo&theme=blue-green"/>
-  
-  </a>
-</div>
-<br><br>
-
 
  
  ## **Technologies I use in my day**  
@@ -30,18 +20,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  
  
- ## **My Social Networks**
 
-<p align="left">
-  <a href="lisgustavo@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> 
-  <a href="https://www.linkedin.com/in/luis-gustavo-martins-06230222b" alt="Linkedin" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
 
-  <a href="https://wa.me/5534999277944" alt="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
-  
-  ![Snake animation](https://github.com/lisgustavo/lisgustavo/blob/output/github-contribution-grid-snake.svg)
+
+
